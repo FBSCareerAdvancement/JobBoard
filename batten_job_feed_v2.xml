@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║   UVA BATTEN CONNECT / GRADUWAY – JOB RSS FEED                  ║
+  ║   Generated: 2026-05-06                                          ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  GRADUWAY FIELD MAPPING — tag names match platform exactly:      ║
+  ║                                                                  ║
+  ║  <recruiter_job_id>  →  Recruiter job ID   (Text)               ║
+  ║  <company>           →  Company            (Text)               ║
+  ║  <logo>              →  Logo               (Text / URL)         ║
+  ║  <website>           →  Website            (Text / URL)         ║
+  ║  <company_website>   →  Company website    (Text / URL)         ║
+  ║  <title>             →  Title              (Text)               ║
+  ║  <description>       →  Description        (Text)               ║
+  ║  <employment_type>   →  Employment type    (Text)               ║
+  ║  <post_date>         →  Post date          (Date: YYYY-MM-DD)   ║
+  ║  <end_date>          →  End date           (Date: YYYY-MM-DD)   ║
+  ║  <location>          →  Location           (Text)               ║
+  ║  <email>             →  Email              (Text)               ║
+  ║  <industry>          →  Industry           (Text)               ║
+  ║  <job_function>      →  Job function       (Text)               ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+<rss version="2.0">
+  <channel>
+    <title>UVA Batten Connect – Curated Job Feed</title>
+    <link>https://batten.uva.edu</link>
+    <description>Curated job listings for UVA Batten Connect powered by Graduway</description>
+    <language>en-us</language>
+    <pubDate>2026-05-06</pubDate>
+    <lastBuildDate>2026-05-06</lastBuildDate>
+    <item>
+      <recruiter_job_id>JR102631</recruiter_job_id>
+      <company>The Nature Conservancy</company>
+      <logo>https://nature.wd108.myworkdayjobs.com/en-US/ExternalCareers/assets/logo</logo>
+      <website>https://nature.wd108.myworkdayjobs.com/en-US/ExternalCareers/job/Remote---Ohio/External-Affairs-Associate_JR102631</website>
+      <company_website>https://www.nature.org</company_website>
+      <title>External Affairs Associate</title>
+      <description>The External Affairs Associate serves as a representative to inform Conservancy partners and elected and appointed officials of Conservancy policy positions. Responsibilities include advocating for statewide conservation and climate issues, supporting state conservation advocacy goals, building and maintaining relationships with key partners and policymakers, managing legislative engagement, collaborating with national and Ohio Chapter colleagues, drafting testimony and action alerts, providing research and policy analysis, and providing administrative support to the Ohio Policy and Government Relations team. Requires a bachelor's degree and minimum 2 years related experience. Salary range: $60,000–$63,500.</description>
+      <employment_type>Full-time; Remote</employment_type>
+      <post_date>2026-05-06</post_date>
+      <end_date>2026-06-05</end_date>
+      <location>Remote – Ohio (Columbus metro preferred)</location>
+      <email/>
+      <industry>Renewables &amp; Environment</industry>
+      <job_function>Advocacy; Government - State/Local; Lobbying; Research</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>LVDvuZk7GG</recruiter_job_id>
+      <company>New America</company>
+      <logo>https://s3.amazonaws.com/resumator/customer_20120409150807_HRZRPI168CNDPE5P/logos/20180303135407_logo-black.png</logo>
+      <website>https://newamerica.applytojob.com/apply/LVDvuZk7GG/Data-And-Policy-Analyst-Education-Funding-Equity-Initiative</website>
+      <company_website>https://www.newamerica.org</company_website>
+      <title>Data and Policy Analyst – Education Funding Equity Initiative</title>
+      <description>New America seeks a Data and Policy Analyst to join the Education Funding Equity Initiative. The analyst will formulate and execute analytical projects, interpret and communicate findings, maintain and update existing publications and data products, and engage with advocacy and academic communities working on school finance reform. Responsibilities include collecting and analyzing public education, housing, census, and public finance data; creating data visualizations; maintaining interactive data products; and authoring literature reviews and policy scans. Requires a bachelor's degree in a related field, at least 2 years of professional experience (or advanced degree), moderate scripting experience (R, Python), and strong analytical and communication skills. Salary range: $70,000–$95,000. Start date on or about July 1, 2026.</description>
+      <employment_type>Full-time; Hybrid</employment_type>
+      <post_date>2026-05-06</post_date>
+      <end_date>2026-06-05</end_date>
+      <location>Washington, DC (Hybrid; remote considered for exceptional candidates)</location>
+      <email/>
+      <industry>Public Policy</industry>
+      <job_function>Analyst; Research; Education; Quantitative/Data Analysis</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>JR25605</recruiter_job_id>
+      <company>Georgetown University</company>
+      <logo>https://georgetown.wd1.myworkdayjobs.com/en-US/Georgetown_Admin_Careers/assets/logo</logo>
+      <website>https://georgetown.wd1.myworkdayjobs.com/en-US/Georgetown_Admin_Careers/job/125-E-St-NW-1st-Floor/Policy-and-Research-Associate--Georgetown-University-Initiative-on-Innovation--Development--and-Evaluation--gui2de-_JR25605</website>
+      <company_website>https://www.georgetown.edu</company_website>
+      <title>Policy and Research Associate, gui2de</title>
+      <description>The Georgetown University Initiative on Innovation, Development, and Evaluation (gui2de) seeks a Policy and Research Associate (PRA) to support a portfolio of research on health and education in low- and middle-income countries. Responsibilities include disseminating research findings through public-facing outputs, managing donor relationships and deliverables, supporting multi-institutional collaborations, conducting stakeholder management, contributing to report writing and data analysis, and traveling to partner countries as needed. Candidates must commit to at least 2 years with the team. Requires a bachelor's degree and 3–5 years of grant/contract experience; analytical experience with STATA, R, LaTeX, or Git is preferred. Master's degree with empirical methods coursework a plus. Salary range: $47,586–$87,558.</description>
+      <employment_type>Full-time; Hybrid</employment_type>
+      <post_date>2026-05-06</post_date>
+      <end_date>2026-06-05</end_date>
+      <location>Washington, DC – 125 E St NW (Hybrid)</location>
+      <email/>
+      <industry>Higher Education</industry>
+      <job_function>Research; Project Management; Analyst; Education</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>JR25618</recruiter_job_id>
+      <company>Georgetown University</company>
+      <logo>https://georgetown.wd1.myworkdayjobs.com/en-US/Georgetown_Admin_Careers/assets/logo</logo>
+      <website>https://georgetown.wd1.myworkdayjobs.com/en-US/Georgetown_Admin_Careers/job/Law-Center/Administration-and-Communications-Associate_JR25618</website>
+      <company_website>https://www.georgetown.edu</company_website>
+      <title>Administration and Communications Associate</title>
+      <description>Georgetown Law's Center for Innovations in Community Safety (CICS) seeks an Administration and Communications Associate to support operations and communications for its alternative response and law enforcement initiatives (including the ABLE Project). The role is heavily administrative: managing internal operational systems, tracking invoices and contracts, handling financial transactions and reconciliation, coordinating logistics for events and trainings, and managing the ABLE Project's Salesforce account. Communications duties include drafting newsletters, maintaining the CICS website and social media presences, managing team inboxes, and supporting media outreach. Requires an undergraduate degree (or equivalent), 2–4 years of operations or communications experience, strong writing skills, and proficiency in Microsoft Office. Salary range: $47,586–$87,558.</description>
+      <employment_type>Full-time; Hybrid</employment_type>
+      <post_date>2026-05-06</post_date>
+      <end_date>2026-06-05</end_date>
+      <location>Washington, DC – Georgetown Law Center (Hybrid 3 Days)</location>
+      <email/>
+      <industry>Higher Education</industry>
+      <job_function>Administrative; Media, Communications, &amp; PR; Operations</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>0859</recruiter_job_id>
+      <company>Confidential – Senior Democratic Senator</company>
+      <logo>https://wjm.s3.amazonaws.com/useo/uploads/logo_1723493905.png</logo>
+      <website>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0859</website>
+      <company_website>https://careers.employment.senate.gov</company_website>
+      <title>Staff Assistant</title>
+      <description>A Senior Democratic Senator seeks a Staff Assistant to join their busy operations team. Responsibilities include assisting with special projects at the direction of the Senator, writing event briefings, assembling a daily briefing binder, tracking materials, escorting guests around the Capitol complex, assisting with constituent correspondence, occasionally driving the Senator, and aiding the Chief of Staff and Deputy Chief of Staff with administrative, scheduling, and operations tasks. Ideal candidates will work well with a team, be ambitious and motivated, and have excellent interpersonal and writing skills. Please e-mail a cover letter and resume to apply.</description>
+      <employment_type>Full-time; In-Person</employment_type>
+      <post_date>2026-05-05</post_date>
+      <end_date>2026-06-04</end_date>
+      <location>Washington, DC</location>
+      <email>(See posting for email address)</email>
+      <industry>Legislative Office</industry>
+      <job_function>Administrative; Legislative; Government - Federal</job_function>
+    </item>
+    <item>
+      <recruiter_job_id>0860</recruiter_job_id>
+      <company>Confidential – New England Democratic Senator</company>
+      <logo>https://wjm.s3.amazonaws.com/useo/uploads/logo_1723493905.png</logo>
+      <website>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0860</website>
+      <company_website>https://careers.employment.senate.gov</company_website>
+      <title>Staff Assistant</title>
+      <description>A New England Democratic Senator seeks a Staff Assistant with immediate availability for their Washington, DC office. Key responsibilities include managing front office operations (greeting visitors, answering high volumes of phone calls), assisting with constituent mail operations, supporting the Internship Coordinator with a robust DC internship program, managing tour and flag requests, and completing administrative support tasks as needed. Strong candidates will have exceptional organizational skills, strong written and verbal communication skills, the ability to multitask in a fast-paced environment, and a friendly, professional demeanor. Submit a resume and cover letter as separate PDF files to newenglandSAjob@gmail.com by Monday, May 18.</description>
+      <employment_type>Full-time; In-Person</employment_type>
+      <post_date>2026-05-05</post_date>
+      <end_date>2026-05-18</end_date>
+      <location>Washington, DC</location>
+      <email>newenglandSAjob@gmail.com</email>
+      <industry>Legislative Office</industry>
+      <job_function>Administrative; Legislative; Government - Federal</job_function>
+    </item>
+  </channel>
+</rss>
