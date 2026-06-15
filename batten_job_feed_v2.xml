@@ -2,7 +2,7 @@
 <!--
   UVA BATTEN CONNECT / GRADUWAY - JOB RSS FEED
   Last updated: 2026-06-15
-  Jobs in feed: 16
+  Jobs in feed: 17
 -->
 <rss version="2.0">
   <channel>
@@ -267,6 +267,22 @@
     <email></email>
     <industry>Public Policy</industry>
     <job_function>Research, Analyst, Government - State/Local, Social Services, Military &amp; Law Enforcement</job_function>
+  </item>
+  <item>
+    <recruiter_job_id>USSENATE-0967</recruiter_job_id>
+    <company>Office of Senator John Fetterman (D-PA)</company>
+    <logo>https://www.google.com/s2/favicons?domain=fetterman.senate.gov&amp;sz=128</logo>
+    <website>https://careers.employment.senate.gov/job/constituent-advocate-pittsburgh-pennsylvania-0967</website>
+    <company_website>https://www.fetterman.senate.gov</company_website>
+    <title>Constituent Advocate</title>
+    <description><![CDATA[This position was posted with no close date and applications may be reviewed or closed on a rolling basis — interested applicants should apply ASAP! The posting will be removed from Batten Connect on 7/15/2026.<br><br>Senator John Fetterman (D-PA) is hiring a Constituent Advocate for his office in Pittsburgh, Pennsylvania. The role serves Pennsylvanians by communicating with constituents statewide and acting as a liaison between them and federal agencies. The position reports to the Constituent Services Director, who is based in Harrisburg.<br><br>Responsibilities: communicate with constituents across Pennsylvania; serve as a liaison between Pennsylvanians and federal agencies; and manage a casework portfolio as assigned by the Constituent Services Director. Staff also have access to free trainings, conferences, and other learning opportunities internal to the Senate.<br><br>Qualifications: This is an entry-level role (0 to 2 years of experience). Excellent interpersonal and organizational skills, the ability to prioritize multiple tasks, and the ability to navigate difficult conversations while treating all constituents with dignity and respect are essential. The ideal candidate is a self-starter who can work independently while functioning as part of a team and knows when to seek guidance or elevate issues to superiors when necessary. Pennsylvania ties and foreign language skills are highly desirable.<br><br>Logistics: Based in Pittsburgh, Pennsylvania. The salary will be commensurate with experience and cost of living at the duty station, and the position is eligible for Senate benefits. To be considered, please submit a cover letter and resume. Offices within the United States Senate are equal opportunity employers.]]></description>
+    <employment_type>Full-time, In-Person</employment_type>
+    <post_date>2026-06-15</post_date>
+    <end_date>2026-07-15</end_date>
+    <location>Pittsburgh, PA</location>
+    <email></email>
+    <industry>Legislative Office</industry>
+    <job_function>Case Management, Community Engagement, Government - Federal, Social Services, Advocacy</job_function>
   </item>
   </channel>
 </rss>
