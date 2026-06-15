@@ -2,7 +2,7 @@
 <!--
   UVA BATTEN CONNECT / GRADUWAY - JOB RSS FEED
   Last updated: 2026-06-15
-  Jobs in feed: 21
+  Jobs in feed: 25
 -->
 <rss version="2.0">
   <channel>
@@ -347,6 +347,70 @@
     <email></email>
     <industry>Government – State/Local</industry>
     <job_function>Education, Government - State/Local, Operations, Community Engagement, Analyst</job_function>
+  </item>
+  <item>
+    <recruiter_job_id>BATTEN-CSC-20260615</recruiter_job_id>
+    <company>College Sports Commission</company>
+    <logo>https://www.google.com/s2/favicons?domain=collegesportscommission.org&amp;sz=128</logo>
+    <website>https://assets.tina.io/29b83311-e587-42b1-861e-87ebde9aa253/CSC%20Deal%20Review%20Analyst%20Position%20Description%20(2).pdf</website>
+    <company_website>https://www.collegesportscommission.org</company_website>
+    <title>Deal Review Analyst</title>
+    <description><![CDATA[The College Sports Commission (CSC) is an independent body established in 2025 to oversee and enforce compliance with rules governing student-athlete compensation in college sports, including institutional revenue sharing and third-party Name, Image, and Likeness (NIL) agreements created under the landmark House v. NCAA settlement. The Deal Review Analyst serves as a frontline internal resource for factual determinations tied to the Commission's mandate, working within a nimble, multi-faceted legal team and reporting to the CSC Associate Counsel.<br><br>Key responsibilities include: developing a working knowledge of the rules originating from the House settlement and their surrounding context; reviewing and analyzing individual NIL deals submitted to the NIL Go platform (built with Deloitte) for compliance with basic deal-clearance requirements under applicable NCAA rules; contributing to communications on behalf of the CSC to institutions and noninstitutional third parties; partnering with CSC staff to build a vetted internal knowledge base of NIL deal-related language, methodology, entities, and answers for common use cases; managing up to senior staff to incorporate feedback and expedite communication; and maintaining a customer-service orientation across external communications while balancing customer care and organizational integrity.<br><br>Qualifications: an undergraduate degree and 3+ years of professional experience are required, along with English fluency, excellent oral and written communication, demonstrated ability to manage time-sensitive deliverables, and discretion handling confidential information. The CSC seeks a self-motivated, curious, detail-oriented team player with an interest in college sports and strong Microsoft Office skills, particularly Excel and PowerPoint.<br><br>Salary range is $85,000-$125,000, plus a benefits package including medical/dental/vision coverage, 401(k) with employer match, and paid time off. The work policy requires four days per week in-office at the CSC's Tysons Corner, Virginia worksite with one remote day. Apply by email to jobs@collegesportscommission.org with the subject line "Applicant: DEAL REVIEW ASSOCIATE," including a resume and transcript. Applications are reviewed on a rolling basis and the posting closes July 2, 2026.]]></description>
+    <employment_type>Full-time, Hybrid</employment_type>
+    <post_date>2026-06-15</post_date>
+    <end_date>2026-07-02</end_date>
+    <location>Tysons, VA (Hybrid)</location>
+    <email>jobs@collegesportscommission.org</email>
+    <industry>Sports</industry>
+    <job_function>Analyst, Legal, Research, Operations</job_function>
+  </item>
+  <item>
+    <recruiter_job_id>OHIO-142499</recruiter_job_id>
+    <company>Ohio Department of Health</company>
+    <logo>https://www.google.com/s2/favicons?domain=odh.ohio.gov&amp;sz=128</logo>
+    <website>https://dasstateoh.taleo.net/careersection/oh_ext/jobdetail.ftl?job=142499&amp;src=LinkedIn</website>
+    <company_website>https://odh.ohio.gov</company_website>
+    <title>Health Data &amp; Analytics Policy Specialist</title>
+    <description><![CDATA[The Ohio Department of Health (ODH), whose mission is advancing the health and well-being of all Ohioans, is seeking a Health Data & Analytics Policy Specialist (Health Services Policy Specialist classification) to join its Office of Informatics, Data, Epidemiology, and Analytics (IDEA). The role serves as a technical expert in public health data analytics, supporting agency-wide data governance, analytics, and health policy initiatives by helping develop data standards, build analytical tools, support statewide systems, and ensure high-quality, consistent use of data across the agency.<br><br>Key responsibilities include: supporting development and implementation of agency-wide data policies, standards, and governance; advising programs on data collection, stewardship, and best practices for managing public health data; developing business requirements for dashboards, reports, and datasets and building data products using tools such as SQL, Python, Power BI, Tableau, SAS, and R; conducting data analysis and assisting programs with analytics needs; serving as a liaison among researchers, program staff, policy teams, and the public; providing guidance on statistical methods and software; facilitating focus groups to assess data needs and recommend agency-wide standards; overseeing daily operations of enterprise data initiatives including the InnovateOhio Platform; serving as REDCap system administrator (onboarding, training, troubleshooting, and enhancements); and preparing analytical reports and presentations to support policy and administrative decision-making.<br><br>Qualifications offer several paths. Generally required: undergraduate or graduate core coursework in a field such as health services administration, mathematics, statistics, actuarial science, public administration, allied health sciences, nursing, economics, or public health; two years of experience in health services research and/or health policy analysis; training or experience in research methodology, measurement and testing, analysis of variance, and survey sampling; experience with relational databases, spreadsheets, statistical analysis, and graphics/word processing; and coursework or experience in multiple regression or multivariate analysis - or two years as a Health Services Analyst (65211), or an equivalent combination. Preferred: a graduate/advanced degree; experience with advanced statistical software (SQL, Snowflake, Cloudera, Python, R, Alteryx, Tableau, Power BI, SAS); REDCap administration; health program evaluation; group facilitation; and big-data platforms.<br><br>This is a classified, full-time position (SEIU/1199 union), Monday-Friday 8am-5pm, on-site at 246 North High Street, Columbus, Ohio. Compensation is $39.64/hour (Pay Grade 14, Step 1), increasing to $41.53/hour after six months of satisfactory performance, plus the State of Ohio benefits package (medical; free dental, vision, and basic life after the eligibility period; paid leave and 11 holidays; OPERS retirement). Official transcripts and a criminal background check are required. Apply via the Ohio Civil Service Application in the TALEO system; the posting closes June 17, 2026.]]></description>
+    <employment_type>Full-time, In-Person</employment_type>
+    <post_date>2026-06-15</post_date>
+    <end_date>2026-06-17</end_date>
+    <location>Columbus, OH</location>
+    <email></email>
+    <industry>Government – State/Local</industry>
+    <job_function>Quantitative/Data Analysis, Analyst, Healthcare Services, Information Technology, Research, Government - State/Local</job_function>
+  </item>
+  <item>
+    <recruiter_job_id>BRG-JR100260</recruiter_job_id>
+    <company>Berkeley Research Group (BRG)</company>
+    <logo>https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/assets/logo</logo>
+    <website>https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Tampa-FL/Health-Analytics-Practice-Fall-2026-Associate---Tampa_JR100260?source=LinkedIn</website>
+    <company_website>https://www.thinkbrg.com</company_website>
+    <title>Health Analytics Practice Fall 2026 Associate – Tampa</title>
+    <description><![CDATA[This position was posted with no close date and applications may be reviewed or closed on a rolling basis - interested applicants should apply ASAP! The posting will be removed from Batten Connect on 7/15/2026.<br><br>Berkeley Research Group (BRG) is a global consulting firm whose specialist consultants, industry experts, academics, and data scientists provide sophisticated economic, financial, and analytical advice across disciplines including healthcare, antitrust and competition policy, complex damages, finance, accounting, intellectual property, and valuation. Clients include Fortune 500 corporations, financial institutions, academic medical centers, government agencies, major law firms, and regulatory bodies worldwide. The Health Analytics Practice Fall 2026 Associate is a full-time, entry-level consulting position supporting high-impact litigation, investigations, compliance, business-process improvement, and strategy engagements.<br><br>Key responsibilities include: collecting, cleaning, and analyzing data from a variety of sources to build sophisticated models and identify key insights; conducting strategic research using industry reports, legal documents, and academic sources to develop recommendations; developing client deliverables such as reports, presentations, and data visualizations; collaborating in a team-driven environment to solve complex business problems and communicate economic concepts; engaging with senior staff, subject-matter experts, and clients to refine analysis; maintaining databases and spreadsheets; and auditing work for accuracy and quality. The work blends quantitative and qualitative analysis, including analyzing big data, building econometric and financial models, executing statistical analyses, and creating forecasts.<br><br>Qualifications: a bachelor's or master's degree in economics, mathematics, data science, statistics, finance, accounting, healthcare administration, engineering, environmental science, or a related field (GPA of 3.5+ highly desirable), with 0-2 years of experience including internships. Proficiency in Excel is required; experience with MS SQL Server, R, Python, Stata, SAS, Tableau, Snowflake, Alteryx, Databricks, or Teradata is highly desirable. Strong problem-solving, communication, and adaptability are essential. The role targets candidates with an expected graduation date between December 2025 and July 2026, and requires legal authorization to work in the U.S. without sponsorship.<br><br>Salary range is $75,000-$100,000 with comprehensive health coverage and world-class benefits. Associates work in-office on average 3-4 days per week; this opening is aligned to BRG's Tampa, FL office.]]></description>
+    <employment_type>Full-time, Hybrid</employment_type>
+    <post_date>2026-06-15</post_date>
+    <end_date>2026-07-15</end_date>
+    <location>Tampa, FL (Hybrid)</location>
+    <email></email>
+    <industry>Management Consulting</industry>
+    <job_function>Quantitative/Data Analysis, Analyst, Consulting, Research, Healthcare Services</job_function>
+  </item>
+  <item>
+    <recruiter_job_id>GADPH-2026-00682</recruiter_job_id>
+    <company>Georgia Department of Public Health</company>
+    <logo>https://www.google.com/s2/favicons?domain=dph.georgia.gov&amp;sz=128</logo>
+    <website>https://www.governmentjobs.com/careers/georgiadph/jobs/5376937/overdose-surveillance-planning-specialist-1</website>
+    <company_website>https://dph.georgia.gov</company_website>
+    <title>Overdose Surveillance &amp; Planning Specialist 1</title>
+    <description><![CDATA[The Georgia Department of Public Health (DPH) is the lead state agency entrusted with protecting lives and promoting healthy lifestyles across Georgia, committed to preventing disease, injury, and disability and preparing the state to respond to disasters. The Overdose Surveillance & Planning Specialist 1 works within the North Georgia Health District (NGHD) to help close the gap between local law enforcement, district and state public health, and the planning and treatment communities - enhancing existing High Intensity Drug Trafficking Area partnerships with an emphasis on de-duplication and coordination of efforts, while also assisting with related infectious disease investigations and broader public health data work.<br><br>Primary duties include: working with partnerships developed through the Emergency Preparedness and Epidemiology programs to facilitate opioid surveillance and planning between public health and public safety entities and prevention/treatment coalitions; determining and filling gaps in established partnerships through data sharing, joint initiatives, and policy consideration; providing training on state and district opioid and substance use response initiatives; supporting or leading local opioid prevention and response initiatives across the six counties within NGHD; preparing and submitting reports in a timely manner; supporting the Office of Epidemiology, Community Assessment, and Research Initiatives through data collection, analysis, and interpretation; supporting infectious disease investigations such as enteric and sexually transmitted diseases; participating in at least one Georgia Opioid Strategic Work Plan Group; and attending health fairs and community events to educate the public on harm reduction, infectious diseases, and opioid resources.<br><br>Minimum qualifications: a high school diploma/GED plus completion of 90 quarter hours (60 semester hours) at an accredited college or university; an equivalent combination of education, experience, training, or certifications may substitute year-over-year. Preferred qualifications: completion of an associate or bachelor's degree in a related field; previous work experience with notifiable diseases including hepatitis and sexually transmitted infections; public speaking experience including presentations to stakeholders and community groups; and experience interviewing clients who may be using illegal substances or are in recovery.<br><br>This is a full-time salaried position based at the North Georgia Health District Office in Dalton, Georgia, with an annual salary of $50,142.29. All positions require a criminal history record check, and some require pre-employment drug testing; required education credentials must be submitted prior to employment. Apply online through the Georgia DPH careers portal (governmentjobs.com/careers/georgiadph). The closing date is June 29, 2026, at 11:59 PM Eastern, though the posting may close earlier once a satisfactory applicant pool is identified.]]></description>
+    <employment_type>Full-time, In-Person</employment_type>
+    <post_date>2026-06-15</post_date>
+    <end_date>2026-06-29</end_date>
+    <location>Dalton, GA</location>
+    <email></email>
+    <industry>Government – State/Local</industry>
+    <job_function>Quantitative/Data Analysis, Analyst, Healthcare Services, Community Engagement, Research, Government - State/Local</job_function>
   </item>
   </channel>
 </rss>
